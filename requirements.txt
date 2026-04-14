@@ -1,0 +1,13 @@
+# Hermes Collab Kit Dependencies
+# Core
+requests>=2.31.0
+
+# Optional: Feishu integration
+# Uncomment if you need Feishu bot functionality
+# feishu-python-sdk>=2.0.0
+
+# Development
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
